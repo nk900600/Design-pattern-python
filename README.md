@@ -1,2 +1,2 @@
 # Design-pattern-python
-will contain all design atttern of python
+will contain all design pattern of python
